@@ -1,0 +1,11 @@
+#heroImg {
+   position: absolute;
+   width: 100vw;
+   height: 90vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background-size: cover;
+   z-index: -1;
+    
+}

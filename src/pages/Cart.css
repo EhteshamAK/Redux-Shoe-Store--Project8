@@ -1,0 +1,22 @@
+.cart {
+    display: grid;  
+    margin: 0 auto;
+    max-width: 900px;
+    grid-template-columns: repeat(1, 1fr);
+    grid-auto-rows: auto;
+    margin-top: 30px;
+}
+
+.order_summary{   
+    text-align: center;
+    background-color: #eee;
+    padding: 10px;
+    box-shadow: 5px 10px #7e7575;
+}
+
+#ptag{
+    font-size: 42px;
+    margin:0;
+    padding: 0;
+
+}
